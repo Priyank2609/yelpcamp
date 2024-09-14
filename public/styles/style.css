@@ -1,0 +1,21 @@
+.row>*{
+    padding: 0;
+}
+.row{
+    margin: 0;
+}
+
+.img-fluid{
+    width: 100%;
+}
+
+.col-md-8{
+    
+    background-image: linear-gradient(135deg, #e9defa 10%, #fbfcdb 100%);
+    overflow: hidden;
+    padding: 0 1rem;
+   
+}
+.card-title {
+   padding-top: 1rem;
+}
